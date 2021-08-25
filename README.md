@@ -11,7 +11,7 @@ Problem Statement - (SB109) - There is a requirement for developing IT solutions
 
 We as a team Trojans301 build a Android app to tackel farmers Problems.
 
-<h4>Modules in Android App</h4><br>
+<h2>Modules in Android App</h2>
 
 * Disease Detection - By clicking Image of leaf of Plant detects if any disease. Also Porvides Solution (pestisides) to tackel disease.<br>
 
